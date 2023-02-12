@@ -2,7 +2,7 @@
 Berikut adalah visualisasi terhadap data Flight Delay oleh beberapa maskapai yang terjadi di kota Amerika Serikat.
 ## Dataset
 Data bersumber dari kaggle, dengan tautan sebagai berikut https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022
-Data meliputi informasi mengenai Delay penerbangan pesawat dari beberapa maskapai yang tersebar di beberapa kota di Amerika Serikat. Data meliputi informasi waktu (meliputi bulan dan tahun), nama maskapai, nama kota, nama airport, dan beberapa informasi delay.
+Data meliputi informasi mengenai Delay penerbangan pesawat dari beberapa maskapai yang tersebar di beberapa kota di Amerika Serikat. Data meliputi informasi waktu (bulan dan tahun), nama maskapai, nama kota, nama airport, dan beberapa informasi delay.
 ## Tujuan 
 Tujuan dari project ini adalah memvisualisasi data fligth delay di Amerika menjadi sebuah informasi yang lebih mudah dipahami.
 ## Penjelasan Dataset
