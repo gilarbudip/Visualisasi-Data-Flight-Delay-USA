@@ -1,7 +1,7 @@
 # Visualisasi-Data-Flight-Delay-USA
 Berikut adalah visualisasi terhadap data Flight Delay oleh beberapa maskapai yang terjadi di kota Amerika Serikat.
 ## Dataset
-Data bersumber dari kaggle, dengan tautan sebagai berikut https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022
+Data bersumber dari kaggle, dengan tautan sebagai berikut https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022.
 Data meliputi informasi mengenai Delay penerbangan pesawat dari beberapa maskapai yang tersebar di beberapa kota di Amerika Serikat. Data meliputi informasi waktu (bulan dan tahun), nama maskapai, nama kota, nama airport, dan beberapa informasi delay.
 ## Tujuan 
 Tujuan dari project ini adalah memvisualisasi data fligth delay di Amerika menjadi sebuah informasi yang lebih mudah dipahami.
@@ -18,9 +18,9 @@ Data terdiri dari 101316 baris dan 24 kolom, di mana kolom terdiri dari informas
 3. Data tanggal masih terpisah menjadi kolom year dan date, untuk mempermudah visualasi gabungkan data date dan year menjadi satu kolom
 4. Data nama airport, nama kota, dan nama state masih tergabung dalam satu kolom, sehingga perlu untuk dipisahkan
 5. Mengapus spasi berlebih pada kolom airport, city, dan state menggunakan formula (=trim)
-## 2. Visualisasi data
+## 2. Visualisasi Data
 Data yang sudah melewati proses cleansing selanjutnya dilakukan visualisasi menggunakan Tableau Publik.
-### a. Visualisasi delay pada masing-masing maskapai
+### a. Visualisasi Delay pada Masing-masing Maskapai
 Visualisasi data delay dari masing-masing maskapai diperoleh berdasarkan data (Carrier) dan data SUM(Arr Delay) 
 Kemudian, pilih jenis visualisasi berupa diagram batang, serta dalam rangka mempercantik tampilan tambahkan warna pada diagram batang untuk menggambarkan nama maskapai.
 ### b. Visualisasi Peta Sebaran Lama Delay Berdasarkan pada Masing-masing City
